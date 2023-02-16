@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pratik1998-sys
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Frontend Developemnt Technologies(Javascript, React.js).
+- 👀 I’m a Web/Front-end developer
+- 🌱 I’m currently working with Frontend Developemnt Technologies(Javascript, React.js, Redux, SASS).
 
 - 📫 How to reach me 📧 pratiksingh260@gmail.com 
 
