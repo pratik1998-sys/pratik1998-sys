@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **pratiksingh260@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1H3HYsm40psbVIURtPTgzzAemhhM4P0Wb/view?usp=sharing](https://drive.google.com/file/d/1H3HYsm40psbVIURtPTgzzAemhhM4P0Wb/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1aS4fzLpTZIwgxN7Rw8ajk0ynpUWmyIaK/view?usp=sharing](https://drive.google.com/file/d/1aS4fzLpTZIwgxN7Rw8ajk0ynpUWmyIaK/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
