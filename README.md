@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **Frontend and Backend Technologies**
 
-- 🌱 I’m currently learning **Backend Technologies**
-
 - 💬 Ask me about **Frontend Development**
 
 - 📫 How to reach me **pratiksingh260@gmail.com**
